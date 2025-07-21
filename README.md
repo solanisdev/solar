@@ -61,7 +61,6 @@ mindmap
       Discord
     Cloud e Deploy
       AWS Vercel
-      Railway
       Docker Hub
       GitHub Packages
 ```
