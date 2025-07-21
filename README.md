@@ -1,7 +1,7 @@
 # 🌞 Metodologia Solar - Manifesto Solanis.ai
 
 <div align="center">
-  <img src="https://github.com/solanisdev/solar/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
+  <img src="https://github.com/solanisdev/solar/blob/main/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
   
   <br/><br/>
   
