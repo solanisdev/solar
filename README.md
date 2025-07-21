@@ -26,7 +26,7 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#FFD700','primaryTextColor':'#1a1a1a','primaryBorderColor':'#E1BEE7','lineColor':'#666','secondaryColor':'#C8E6C9','tertiaryColor':'#E3F2FD','background':'#ffffff','mainBkg':'#FFD700','secondaryBkg':'#E1BEE7','tertiaryBkg':'#C8E6C9'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2196F3','primaryTextColor':'#ffffff','primaryBorderColor':'#1976D2','lineColor':'#0D47A1','secondaryColor':'#42A5F5','tertiaryColor':'#64B5F6','background':'#ffffff','mainBkg':'#2196F3','secondaryBkg':'#1E88E5','tertiaryBkg':'#1976D2'}}}%%
 mindmap
   root((Stack Solanis))
     Frontend
@@ -46,9 +46,8 @@ mindmap
       Anthropic
     Dados e Armazenamento
       PostgreSQL
-      MongoDB
       Redis
-      Bancos Vetoriais
+      PgVector
     DevOps
       Docker
       GitHub Actions
@@ -56,7 +55,6 @@ mindmap
       Discord
     Cloud e Deploy
       AWS Vercel
-      Railway
       Docker Hub
       GitHub Packages
 ```
