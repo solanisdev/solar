@@ -2,8 +2,12 @@
 by gustavorteuber software architect and founder - solanis.ai
 
 <div align="left">
-  <img src="https://github.com/solanisdev/solar/blob/main/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
+  <picture>
+  <source srcset="https://github.com/solanisdev/solar/blob/main/assets/logosolaniswhite.png" media="(prefers-color-scheme: dark)">
+
   
+  <img src="https://github.com/solanisdev/solar/blob/main/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
+  </picture>
   <br/><br/>
   
   ![Version](https://img.shields.io/badge/version-1.0.0-FFD700?style=for-the-badge&logo=semver&logoColor=black)
