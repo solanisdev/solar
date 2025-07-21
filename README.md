@@ -1,7 +1,7 @@
 # Solar Method by Solanis.ai
 by gustavorteuber software architect and founder - solanis.ai
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/solanisdev/solar/blob/main/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
   
   <br/><br/>
