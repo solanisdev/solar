@@ -1,4 +1,5 @@
-# Metodologia Solar - Framework de Desenvolvimento IA
+# Solar Method by Solanis.ai
+by gustavorteuber software architect and founder - solanis.ai
 
 <div align="center">
   <img src="https://github.com/solanisdev/solar/blob/main/assets/logosolanisdark.png" alt="Solanis.ai Logo" width="300" height="auto"/>
@@ -46,8 +47,9 @@ mindmap
       Anthropic
     Dados e Armazenamento
       PostgreSQL
+      MongoDB
       Redis
-      PgVector
+      Bancos Vetoriais
     DevOps
       Docker
       GitHub Actions
@@ -55,11 +57,64 @@ mindmap
       Discord
     Cloud e Deploy
       AWS Vercel
+      Railway
       Docker Hub
       GitHub Packages
 ```
 
 </div>
+
+---
+
+## As Fases Solares da Metodologia
+
+A Metodologia Solar é baseada na metáfora do ciclo diário do sol, onde cada fase representa um momento específico do desenvolvimento de soluções de IA, simbolizando a evolução natural de uma ideia até sua implementação completa.
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#FFD700','primaryTextColor':'#1a1a1a','primaryBorderColor':'#E1BEE7','lineColor':'#4A90E2','secondaryColor':'#C8E6C9','tertiaryColor':'#E3F2FD','background':'#ffffff'}}}%%
+journey
+    title Metodologia Solar - As 4 Fases do Ciclo
+    section 🌅 Aurora (Descoberta)
+      Sessões de Discovery: 5: Arquiteto, Cliente
+      Prototipagem Rápida: 5: Arquiteto, Desenvolvedor
+      Validação Técnica: 4: Arquiteto
+    section 🌇 Meridiano (Planejamento)
+      Demonstração e Proposta: 5: Equipe Completa
+      Contrato e Planejamento: 4: Comercial
+      Configuração de Sprints: 5: Arquiteto
+    section ☀️ Zênite (Desenvolvimento)
+      Desenvolvimento de Funcionalidades: 5: Squad
+      Rituais Diários: 4: Squad
+      Demonstrações ao Cliente: 5: Squad, Cliente
+    section 🌅 Poente (Entrega)
+      Deploy em Produção: 5: DevOps, Squad
+      Suporte e Monitoramento: 4: Squad
+      Transferência de Conhecimento: 5: Equipe Completa
+```
+
+</div>
+
+### 🌅 **Aurora** - O Despertar da Solução
+*"O momento em que a ideia ganha forma e clareza"*
+
+A Aurora representa o início do projeto, quando as primeiras luzes da solução começam a aparecer. É a fase de descoberta intensa, onde transformamos problemas complexos em oportunidades claras através de prototipagem rápida e validação técnica.
+
+### 🌇 **Meridiano** - A Consolidação da Visão  
+*"Quando a solução atinge sua máxima clareza e definição"*
+
+No Meridiano, a solução está completamente definida e validada. É o momento de apresentar o protótipo funcional, consolidar a proposta comercial e estabelecer o plano de execução detalhado.
+
+### ☀️ **Zênite** - O Auge da Criação
+*"O período de máxima energia e produtividade"*
+
+O Zênite é a fase de desenvolvimento intensivo, onde toda a energia da equipe está focada na construção da solução. É quando as funcionalidades de IA ganham vida através de sprints bem estruturados e entregas contínuas.
+
+### 🌅 **Poente** - A Culminação e Continuidade
+*"O momento de colher os frutos e garantir a sustentabilidade"*
+
+O Poente marca a transição da criação para a operação. É quando a solução é entregue ao cliente, estabilizada em produção e preparada para gerar valor contínuo ao negócio.
 
 ---
 
@@ -71,19 +126,19 @@ mindmap
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#FFD700','primaryTextColor':'#1a1a1a','primaryBorderColor':'#E1BEE7','lineColor':'#4A90E2','secondaryColor':'#C8E6C9','tertiaryColor':'#E3F2FD','background':'#ffffff'}}}%%
 journey
     title Metodologia Solar - Ciclo Completo de Desenvolvimento
-    section Descoberta e Análise
+    section 🌅 Aurora (Descoberta)
       Sessões de Discovery: 5: Arquiteto, Cliente
       Prototipagem Rápida: 5: Arquiteto, Desenvolvedor
       Validação Técnica: 4: Arquiteto
-    section Planejamento e Proposta
+    section 🌇 Meridiano (Planejamento)
       Demonstração e Proposta: 5: Equipe Completa
       Contrato e Planejamento: 4: Comercial
       Configuração de Sprints: 5: Arquiteto
-    section Desenvolvimento
+    section ☀️ Zênite (Desenvolvimento)
       Desenvolvimento de Funcionalidades: 5: Squad
       Rituais Diários: 4: Squad
       Demonstrações ao Cliente: 5: Squad, Cliente
-    section Entrega e Suporte
+    section 🌅 Poente (Entrega)
       Deploy em Produção: 5: DevOps, Squad
       Suporte e Monitoramento: 4: Squad
       Transferência de Conhecimento: 5: Equipe Completa
@@ -113,8 +168,10 @@ journey
 
 ---
 
-## Fase 1: Descoberta e Prototipagem
+## Fase 1: 🌅 Aurora - Descoberta e Prototipagem
 ### Duração: 3-5 dias úteis
+
+*"O momento em que a ideia ganha forma e clareza através da descoberta intensa e prototipagem rápida"*
 
 <div align="center">
 
@@ -241,8 +298,10 @@ gantt
 
 ---
 
-## Fase 2: Planejamento e Proposta
+## Fase 2: 🌇 Meridiano - Planejamento e Proposta
 ### Duração: 2-3 dias úteis
+
+*"Quando a solução atinge sua máxima clareza através da demonstração e consolidação da proposta"*
 
 ### 2.1 Apresentação do Protótipo
 
@@ -281,8 +340,10 @@ journey
 
 ---
 
-## Fase 3: Desenvolvimento
+## Fase 3: ☀️ Zênite - Desenvolvimento
 ### Duração: Variável por projeto
+
+*"O período de máxima energia e produtividade, onde as funcionalidades de IA ganham vida"*
 
 ### Estrutura de Sprint
 
@@ -349,8 +410,10 @@ graph TD
 
 ---
 
-## Fase 4: Entrega e Suporte
+## Fase 4: 🌅 Poente - Entrega e Suporte
 ### Duração: 3-4 semanas
+
+*"O momento de colher os frutos e garantir a sustentabilidade da solução em produção"*
 
 <div align="center">
 
